@@ -6,5 +6,5 @@
 
 <img align="left" alt="bash" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" /> C#: https://pdfcoffee.com_c-cheat-sheet-3-pdf-free.pdf </br>
 
-Docker: https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf <br/>
+<img align="left" alt="bash" width="50px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" /> Docker: https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf <br/>
 
