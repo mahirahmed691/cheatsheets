@@ -1,5 +1,7 @@
 ## A collection of useful Cheat Sheets for:
 
+# This repo will be updated  with up to date cheatsheets to help 
+
 | LOGO | NAME | LINK |
 |---|---|---|
 | <img align="left" alt="aws" width="50px" src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" /> | AWS: |https://cheatography.com/irohitpawar/cheat-sheets/aws-services/pdf/ |
