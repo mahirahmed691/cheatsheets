@@ -1,6 +1,6 @@
 ## A collection of useful Cheat Sheets for:
 
-# This repo will be updated  with up to date cheatsheets to help 
+### This repo will be updated  with up to date cheatsheets to help with the retrospective software tool/cli.
 
 | LOGO | NAME | LINK |
 |---|---|---|
